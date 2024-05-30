@@ -1,3 +1,8 @@
+# Files
+logistic.ipynb
+regression.ipynb
+tester.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
